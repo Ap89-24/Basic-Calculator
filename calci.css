@@ -1,0 +1,39 @@
+#cal{
+    border: 2px solid rgb(174, 172, 172);
+    width: 500px;
+    height: 700px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: aqua;
+
+}
+
+#display{
+    margin: 10px 35px;
+    height: 70px;
+    width: 80%;
+    background-color: beige;
+    font-size: 20px;
+}
+
+.button{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.btn{
+    width: 80px;
+    height: 80px;
+    background-color: darkgray;
+    font-size: 30px;
+}
+
+.btn:hover{
+    background-color: darkkhaki;
+    cursor: pointer;
+}
+
+
